@@ -3,3 +3,6 @@
     margin:0;
     box-sizing: border-box;
 }
+table tbody tr{
+    padding-left: 10px;
+}
