@@ -1,0 +1,171 @@
+*{margin: 0;padding: 0;font-family: Arial ;}
+a{text-decoration:none;}
+li{list-style:none;}
+.clear{clear:both;}
+body{
+	width: 100%;
+	background:url(../images/body-bg.jpg);
+}
+#warper{
+	width: 961px;
+	background: #e3e3e3;
+	margin: 0 auto;
+	border-radius:4px;
+	opacity:0.9;
+}
+#header{
+	width: 940px;
+	 height: 482px; 
+	margin:0px 10px 0px 10px; 
+}
+.logo{
+	padding-top: 25px;
+	margin-left: 40px;
+	float: left;
+}
+.nav li a{
+	float: left;
+	margin-right: 8px;
+	padding:9px 8px 13px 8px;
+	color: #333;
+	font-size: 12px;
+	margin-top: 41px;
+	margin-left: 30px;
+}
+.nav .about,.nav a:hover{
+	background: #333;
+	color: #fff;
+}
+.banner img{
+	position: absolute;
+	margin-top: 12px;
+}
+.banner-text{
+	position: relative;
+	z-index: 2222;
+	top:211px;
+	left:164px;
+}
+.banner h2{
+	font-size: 46px;
+	margin-left: 130px;
+	color: #fff;
+}
+.banner-text h1{
+	font-size: 66px;
+	color: #fff;
+}
+.banner-text span{
+	color: #ead909;
+}
+.banner .hai{
+	margin-top: 90px;
+	margin-left: -90px;
+}
+.banner .jiao{
+	margin-top: 90px;
+	margin-left: 650px;
+}
+#main{
+	margin: 0 10px;
+}
+.mainbar img{
+	float: left;
+	margin-top: 31px;
+	margin-left: 47px;
+	border:1px solid #dadada;
+	padding: 5px;
+	background: #fff;
+	border-radius: 4px;
+}
+.mainbar h1{
+	color: #000;
+	padding-top: 38px;
+	margin-left: 360px;
+}
+.yu{
+	padding-top: 14px;
+	margin-left: 360px;
+	line-height: 22px;
+}
+.xu{
+	margin-top: 16px;
+	margin-left: 360px;
+	line-height: 22px;
+}
+.main-bottom{
+	width: 941px;
+	height: 372px;
+	background: #fff;
+}
+.main-bottom h1{
+	margin-left: 37px;
+	margin-top: 33px;
+	font-size: 24px;
+}
+.main-bottom img{
+	margin-left: 36px;
+	margin-top: 34px;
+	float: left;
+}
+.bottom-left{
+	float: left;
+	width: 260px;
+	height: 312px;
+}
+.main-bottom p{
+	width: 217px;
+	height: 213px;
+	padding-left: 76px;
+	padding-top: 34px;
+	line-height: 26px;
+}
+.main-bottom a{
+	float: left;
+	margin-top: 28px;
+	margin-left: 76px;
+}
+.main-bottom .jing{
+	margin-top: 15px;
+	margin-left: 50px;
+}
+.bottom-left h1{
+	margin-left: 36px;
+}
+.bottom-left div{
+	width: 270px;
+	height: 244px;
+	float: left;
+
+}
+#footer{
+	width: 941px;
+	height: 131px;
+	background-color: #000;
+	margin-left: 10px;
+}
+.copy{
+	width: 824px;
+	height: 39px;
+}
+.copy p{
+	color: #fff;
+	font-family: Arial ;
+	font-size:13px ;
+	padding-top: 34px;
+	margin-left: 40px;
+}
+.copy p span{
+	color: #7f7f7f;
+}
+.icon{
+	width: 93px;
+	height: 24px;
+	float: right;
+	margin-right: 40px;
+}
+.icon li{
+	float: left;
+	margin-top: 46px;
+	margin-right: 5px;
+}
